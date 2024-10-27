@@ -1,6 +1,5 @@
 Flash Deathmatch
 ===
----
 
 # Feature
 - Deathmatch (C-BUG, Headshot and Normal)
