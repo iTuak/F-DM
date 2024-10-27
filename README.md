@@ -1,6 +1,6 @@
-# F-DM
+Flash Deathmatch
 
--> feature
+# Feature
 - Deathmatch (C-BUG, Headshot and Normal)
 - Freeroam Done (20%) 
 - Duel System
