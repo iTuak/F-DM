@@ -6,7 +6,7 @@
 - Duel System
 - DLL check On Script broh
   
-### Creadit
+### Credit
 - Open-MP (Based) -> [Click Here](https://open.mp)
 - iTuak (Scripter F:DM)
 
