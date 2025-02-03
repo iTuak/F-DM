@@ -27,3 +27,4 @@
 
 ### Note
 - This is open source script don't sell!!!
+- Make your own config.json and database, I forgot to backup before removing this gamemode.
